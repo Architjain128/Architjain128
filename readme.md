@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-Hyderabad.
 
-  <!-- <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
 ### **Talking about Personal Stuff:**
 
@@ -37,7 +36,7 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 ### **📈 My GitHub Stats**  
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Architjain128&show_icons=true&theme=vision-friendly-dark" alt="Architjain128" />
-
+<!--   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architjain128&layout=compact"></p> -->
 
 ### [Personal Website](https://architjain128.github.io)
 
@@ -50,4 +49,9 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 <a href="https://www.instagram.com/archit_jain_128/">
   <img align="left" alt="Archit's Instagram" width="22px" style="padding:6px" src="./img/insta.png" /> 
 </a>
+  <img alt="GIF" src="https://views.whatilearened.today/views/github/Architjain128/Architjain128.svg?cache=remove" />
+  
 <br>
+<!-- ![ViewCount](https://views.whatilearened.today/views/github/Architjain128/Architjain128.svg?cache=remove)  -->
+  
+
