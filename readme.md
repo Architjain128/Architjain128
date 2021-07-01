@@ -36,12 +36,12 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 
 ### **📈 My GitHub Stats**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Architjain128&show_icons=true&theme=vision-friendly-dark" alt="Architjain128" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Architjain128&show_icons=true&theme=vision-friendly-dark" alt="Architjain128" />
 
 
 ### [Personal Website](https://architjain128.github.io)
 
-<a href="https://www.linkedin.com/in/archit-jain-a85128193/">
+  <a href="https://www.linkedin.com/in/archit-jain-a85128193/">
   <img align="left" alt="Archit's LinkedIN" width="22px" style="padding:6px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/archiiit.jaih/">
