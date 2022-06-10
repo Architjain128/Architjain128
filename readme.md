@@ -44,7 +44,8 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
   <img align="left" alt="Archit's LinkedIN" width="22px" style="padding:6px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/archiiit.jaih/">
-  <img align="left" alt="Archit's Facebook" width="22px" style="padding:6px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Archit's Facebook" width="22px" style="padding:6px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/faba5f7a4a9746cbc4f677045eefa30bd92709aa/assets/facebook.svg" />
+
 </a>
 <a href="https://www.instagram.com/archit_jain_128/">
   <img align="left" alt="Archit's Instagram" width="22px" style="padding:6px" src="./img/insta.png" /> 
