@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"  height="35px">
 Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-Hyderabad.
 
   
