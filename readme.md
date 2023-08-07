@@ -33,10 +33,10 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 
 
 
-### **📈 My GitHub Stats**  
+<!--   ### **📈 My GitHub Stats**  
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Architjain128&show_icons=true&theme=vision-friendly-dark" alt="Architjain128" />
-<!--   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architjain128&layout=compact"></p> -->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architjain128&layout=compact"></p> -->
 
 ### [Personal Website](https://architjain128.github.io)
 
