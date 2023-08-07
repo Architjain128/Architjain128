@@ -9,7 +9,7 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 - 💬 Wanna ask me something? Wait lemme google  
 - 📫 How to reach me: `archit.jain@students.iiit.ac.in`  
 
-### **Languages and Tools:**  
+<!--  ### **Languages and Tools:**  
 
 <code><img height="40" src="./img/cpp.png"></code>
 <code><img height="40" src="./img/cpro.png"></code>
@@ -33,7 +33,7 @@ Hi, I'm [Archit Jain!](https://architjain128.github.io), a CSE student at IIIT-H
 
 
 
-<!--   ### **📈 My GitHub Stats**  
+ ### **📈 My GitHub Stats**  
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Architjain128&show_icons=true&theme=vision-friendly-dark" alt="Architjain128" />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architjain128&layout=compact"></p> -->
